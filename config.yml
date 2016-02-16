@@ -1,0 +1,8 @@
+Database:
+  host: localhost
+  port: 3306
+  database: AvoidTheVoid
+  user: root
+  password: 
+spawn: World&88&74&315&-86.4&5.2
+islandworld: Sky

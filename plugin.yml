@@ -1,0 +1,11 @@
+author: Laekh
+version: 0.9
+name: AvoidTheVoid
+main: com.devirax.avoidthevoid.AvoidTheVoid
+depend: [WorldEdit, Multiverse-Core, Vault]
+
+commands:
+ AvoidTheVoid:
+  description: ATV commands
+  usage: /atv (command) (args)
+  aliases: [atv]
